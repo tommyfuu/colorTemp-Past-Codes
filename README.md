@@ -1,5 +1,5 @@
 # colorTemp-Past-Codes
-Some past codes for reference
+Some past codes for reference for the map information fetching. Have fun!
 
 # Included a matlab file that I just tested tonight (20200409).
 colorTemp.mlx might only work completely on Matlab on Windows system for some reason. I tried with Mac and Mac is acting weirdly with ginput. So to make it work, please use Windows. Haven't tested for Linux but hopefully it works.  
