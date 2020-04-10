@@ -11,7 +11,7 @@ Input 2: pic for a region of interest from the same map of input 1 for which you
 Output: topical temperature map with temperature labelled for the region of interest
 
 # To run it:
-Open colorTemp.mlx
+Open colorTemp.mlx /n
 Run it.
 When the first request that asks you to open an image, open colorscale.png in the directory.
 Continue running.
